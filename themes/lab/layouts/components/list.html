@@ -10,8 +10,8 @@
   </header>
   <div class="list-grid">
     {{ range .Sections.ByWeight }}
-    <a href="{{ .Permalink }}" class="card{{ with .Params.image }} card--with-image{{ end }}">
-      {{ with .Params.image }}
+    <a href="{{ .Permalink }}" class="card{{ with .Params.image | relURL }} card--with-image{{ end }}">
+      {{ with .Params.image | relURL }}
       <div class="card-image-wrap">
         <img src="{{ . }}" alt="" class="card-image" loading="lazy">
       </div>
@@ -34,7 +34,7 @@
       <span>{{ .Title }}</span>
     </nav>
     <h1 class="content-title">{{ .Title }}</h1>
-    {{ with .Params.image }}
+    {{ with .Params.image | relURL }}
     <div class="content-image-wrap">
       <img src="{{ . }}" alt="{{ $.Title }}" class="content-image">
     </div>

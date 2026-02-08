@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sparc-sy.github.io/lab/"
 languageCode = "ar"
 defaultContentLanguage = "ar"
 title = "مكونات المختبر"

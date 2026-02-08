@@ -2,7 +2,7 @@
 title: "VL53L0X — مستشعر ليزر لقياس المسافة (Time-of-Flight)"
 weight: 1
 description: "مستشعر قياس مسافة ليزري من STMicroelectronics يعتمد تقنية Time-of-Flight."
-image: "./images/VL53L0X.jpg"
+image: "images/VL53L0X.jpg"
 ---
 
 مستشعر قياس مسافة ليزري من STMicroelectronics يعتمد تقنية Time-of-Flight. مناسب للمشاريع التعليمية والروبوتات وتطبيقات القياس القصير المدى.
