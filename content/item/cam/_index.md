@@ -28,4 +28,4 @@ image: "images/cam.jpg"
 - [ESP32-CAM Module Datasheet](https://www.handsontec.com/dataspecs/module/ESP32-CAM.pdf)
 - [OV2640 Camera Sensor Datasheet](https://github.com/raphaelbs/esp32-cam-ai-thinker/blob/master/assets/OV2640_Datasheet.pdf)
 - [ESP32-CAM (AI-Thinker) documentation](https://github.com/espressif/esp32-camera)
-- [Arduino ESP32 Camera examples](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32/examples/camera)
+- [Arduino ESP32 Camera examples](https://github.com/espressif/esp32-camera/tree/master/examples)

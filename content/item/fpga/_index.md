@@ -25,7 +25,7 @@ image: "images/fpga.jpg"
 
 ## روابط مفيدة
 
-- [Sipeed Wiki — Tang Nano 4K](https://wiki.sipeed.com/hardware/en/lichee/tang-nano-4k.html)
+- [Sipeed Wiki — Tang Nano 4K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-4K/Nano-4K.html)
 - [Tang Nano 4K Datasheet (PDF)](https://akizukidenshi.com/goodsaffix/Tang%20nano%204K.pdf)
 - [Gowin GW1NSR FPGA Information](https://www.gowinsemi.com/en/support/devkits_detail/39/)
 - [Gowin EDA](https://www.gowinsemi.com/)

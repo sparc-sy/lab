@@ -29,4 +29,4 @@ image: "images/breadboard.jpg"
 - [Breadboard Tutorial (Wikipedia)](https://en.wikipedia.org/wiki/Breadboard)
 - [How to Use a Breadboard (Adafruit)](https://learn.adafruit.com/breadboards-for-beginners)
 - [Breadboard Basics Tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard)
-- [Adafruit — Breadboards](https://www.adafruit.com/category/65)
+- [Adafruit — Breadboards](https://www.adafruit.com/category/462)

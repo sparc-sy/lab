@@ -36,7 +36,7 @@
 				var mi_version = '9.11.1';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
-								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.raspberrypi.com\/app\/uploads\/2023\/09\/raspberry-pi-5-overview-1-1-1.png\/"};
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.raspberrypi.com\/app\/uploads\/2023\/10\/Raspberry-Pi-5-1.jpg\/"};
 								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
 					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
 				} else {
