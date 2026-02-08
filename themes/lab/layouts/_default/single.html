@@ -4,9 +4,9 @@
 <article class="content prose">
   <header class="content-header">
     <nav class="breadcrumb" aria-label="breadcrumb">
-      <a href="{{ "/" | absURL }}">الرئيسية</a>
+      <a href="{{ "/" | relURL }}">الرئيسية</a>
       <span class="sep">/</span>
-      <a href="{{ "/components/" | absURL }}">المكونات</a>
+      <a href="{{ "/components/" | relURL }}">المكونات</a>
       {{ if and .Parent (not .Parent.IsHome) (ne .Section .Parent.Section) }}
       <span class="sep">/</span>
       <span>{{ .Title }}</span>
