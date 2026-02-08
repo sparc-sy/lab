@@ -5,7 +5,7 @@
   <header class="hero">
     <h1 class="hero-title">{{ .Site.Title }}</h1>
     <p class="hero-desc">{{ .Site.Params.description }}</p>
-    <a href="{{ "/components/" | relURL }}" class="btn btn-primary">استعراض المكونات</a>
+    <a href="{{ "components/" | relURL }}" class="btn btn-primary">استعراض المكونات</a>
   </header>
   {{ with .Content }}<div class="home-content prose">{{ . }}</div>{{ end }}
   <section class="home-components">
