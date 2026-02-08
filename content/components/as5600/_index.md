@@ -26,6 +26,6 @@ image: "https://www.mouser.com/images/ams/images/AS5600-ASOM_SPL.jpg"
 
 ## روابط مفيدة
 
-- [الداتاشيت AS5600 (ams)](https://www.ams.com/en/products/position-sensors/magnetic-rotary-position-sensors/as5600)
-- [Adafruit AS5600](https://www.adafruit.com/product/5557)
-- [Adafruit AS5600 Library](https://github.com/adafruit/Adafruit_AS5600)
+- [Official Product Page (AS5600)](https://ams-osram.com/products/sensors/position-sensors/ams-as5600-position-sensor)
+- [Datasheet (AS5600 PDF)](https://look.ams-osram.com/m/7059eac7531a86fd/original/AS5600-DS000365.pdf)
+- [Official Examples (Adafruit AS5600 Library)](https://github.com/adafruit/Adafruit_AS5600)

@@ -27,6 +27,6 @@ image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Arduino_Nano_front_z
 
 ## روابط مفيدة
 
-- [Arduino Nano (الموقع الرسمي)](https://docs.arduino.cc/hardware/nano)
-- [ATmega328P Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-- [Arduino Reference](https://www.arduino.cc/reference/en/)
+- [Official Product Page (Arduino Nano)](https://docs.arduino.cc/hardware/nano)
+- [Datasheet (ATmega328P)](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
+- [Official Examples (Built-in Arduino Examples)](https://docs.arduino.cc/built-in-examples/)

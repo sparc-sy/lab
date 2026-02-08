@@ -27,5 +27,6 @@ image: "https://www.raspberrypi.com/app/uploads/2022/10/raspberry-pi-zero-2-w-1-
 
 ## روابط مفيدة
 
-- [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
-- [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
+- [Official Product Page (Raspberry Pi Zero 2 W)](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
+- [Datasheet (Raspberry Pi Zero 2 W Product Brief PDF)](https://datasheets.raspberrypi.com/zero2/raspberry-pi-zero-2-w-product-brief.pdf)
+- [Official Examples (Raspberry Pi Documentation Examples)](https://www.raspberrypi.com/documentation/computers/getting-started.html)

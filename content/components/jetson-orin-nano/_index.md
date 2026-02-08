@@ -26,6 +26,6 @@ image: "https://developer.nvidia.com/sites/default/files/akamai/embedded/images/
 
 ## روابط مفيدة
 
-- [NVIDIA Jetson Orin Nano](https://developer.nvidia.com/embedded/jetson-orin-nano)
-- [JetPack SDK](https://developer.nvidia.com/embedded/jetpack)
-- [Jetson Zoo (نماذج جاهزة)](https://elinux.org/Jetson_Zoo)
+- [Official Product Page (Jetson Orin Nano Developer Kit)](https://developer.nvidia.com/embedded/jetson-orin-nano-developer-kit)
+- [Datasheet (Jetson Orin Nano Series)](https://developer.nvidia.com/downloads/jetson-orin-nano-series-datasheet)
+- [SDK Samples (NVIDIA Jetson-inference)](https://github.com/dusty-nv/jetson-inference)

@@ -26,6 +26,7 @@ image: "https://images.unsplash.com/photo-1580578693222-7953835a83b7"
 
 ## روابط مفيدة
 
-- [Breadboard (Wikipedia)](https://en.wikipedia.org/wiki/Breadboard)
-- [Adafruit — Breadboards](https://www.adafruit.com/category/65)
-- [MB102-style module (بحث عام)](https://www.google.com/search?q=MB102+breadboard+power+supply)
+- [Official Product Page (BusBoard Breadboards)](https://busboard.com/breadboards)
+- **Datasheet:** لا توجد داتاشيت رسمية موحدة لأن هذا الملحق يتوفر من عدة مصنعين وبمواصفات متقاربة.
+- [Official Usage Docs (SparkFun Breadboard Tutorial)](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+- [Official Examples (Adafruit Learn: Breadboards for Beginners)](https://learn.adafruit.com/breadboards-for-beginners)

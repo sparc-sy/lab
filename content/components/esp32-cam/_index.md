@@ -25,6 +25,6 @@ image: "https://randomnerdtutorials.com/wp-content/uploads/2019/03/esp32-cam-ai-
 
 ## روابط مفيدة
 
-- [ESP32-CAM (AI-Thinker) documentation](https://github.com/espressif/esp32-camera)
-- [ESP32 Camera driver](https://github.com/espressif/esp32-camera)
-- [Arduino ESP32 Camera examples](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32/examples/camera)
+- [Official Product Page (AI-Thinker ESP32-CAM)](https://docs.ai-thinker.com/en/esp32-cam)
+- [Datasheet (ESP32 SoC PDF)](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [Official Examples (Arduino ESP32 CameraWebServer)](https://github.com/espressif/arduino-esp32/tree/master/libraries/ESP32/examples/Camera/CameraWebServer)

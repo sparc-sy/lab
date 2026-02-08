@@ -25,6 +25,6 @@ image: "https://hailo.ai/wp-content/uploads/2023/02/hailo-8l-1.png"
 
 ## روابط مفيدة
 
-- [Hailo-8 Product](https://hailo.ai/products/ai-accelerators/hailo-8/)
-- [Hailo Developer Zone](https://hailo.ai/developer-resources/)
-- [Hailo SDK / Documentation](https://hailo.ai/developer-resources/software-downloads/)
+- [Official Product Page (Hailo-8L)](https://hailo.ai/products/ai-accelerators/hailo-8l/)
+- [Datasheet (Hailo-8L PDF)](https://hailo.ai/wp-content/uploads/2024/03/Hailo-8L-Datasheet.pdf)
+- [SDK Samples (Hailo Model Zoo)](https://github.com/hailo-ai/hailo_model_zoo)

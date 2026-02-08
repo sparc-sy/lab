@@ -37,3 +37,10 @@ image: "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format
 - **Reliability practices**: استخدام خطط نسخ احتياطي منتظمة، مراقبة SMART للأقراص، وتثبيت إصدارات التعريفات/الحزم لتقليل أعطال البيئة.
 - **Expected workloads**: مناسبة للاستدلال الكثيف، الضبط الدقيق، المعالجة الدُفعية (batch processing)، والتجارب المتكررة في بيئات بحثية.
 - **Software stack assumptions**: Linux (Ubuntu LTS)، NVIDIA Driver + CUDA/cuDNN، Docker/Compose، Python ML stack (PyTorch, TensorFlow, Jupyter, MLflow) حسب سياسة المختبر.
+
+## روابط مفيدة
+
+- [Official Product Page (NVIDIA GeForce RTX 5090)](https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/)
+- **Datasheet:** لا توجد داتاشيت رسمية واحدة لمحطة العمل كاملة لأنها تجميعة من عدة مكونات (CPU/GPU/RAM/PSU).
+- [Official Usage Docs (NVIDIA CUDA Documentation)](https://docs.nvidia.com/cuda/)
+- [SDK Samples (NVIDIA CUDA Samples)](https://github.com/NVIDIA/cuda-samples)

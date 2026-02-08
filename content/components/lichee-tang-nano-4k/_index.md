@@ -25,6 +25,6 @@ image: "images/Sipeed-FPGA.jpg"
 
 ## روابط مفيدة
 
-- [Sipeed Wiki — Tang Nano 4K](https://wiki.sipeed.com/hardware/en/lichee/tang-nano-4k.html)
-- [Gowin EDA](https://www.gowinsemi.com/)
-- [مستودعات Sipeed (GitHub)](https://github.com/sipeed)
+- [Official Product Page (Sipeed Tang Nano 4K)](https://wiki.sipeed.com/hardware/en/lichee/tang-nano-4k.html)
+- [Datasheet (GW1NSR-4C FPGA PDF)](https://cdn.gowinsemi.com.cn/DS117E.pdf)
+- [Official Examples (Sipeed Tang Nano 4K Examples)](https://github.com/sipeed/TangNano-4K-example)

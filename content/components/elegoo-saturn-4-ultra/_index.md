@@ -26,6 +26,7 @@ image: "https://cdn.mos.cms.futurecdn.net/4fB3o6tX2XwJ5sJ5XwWw4K-970-80.jpg.webp
 
 ## روابط مفيدة
 
-- [Elegoo Saturn 4 Ultra](https://www.elegoo.com/)
-- [Chitubox (برنامج الشرائح)](https://www.chitubox.com/)
-- [Lychee Slicer](https://mango3d.io/lychee-slicer/)
+- [Official Product Page (Elegoo Saturn 4 Ultra)](https://www.elegoo.com/products/elegoo-saturn-4-ultra-12k-10inch-monochrome-lcd-resin-3d-printer)
+- **Datasheet:** لا توجد داتاشيت رسمية منفصلة؛ تعتمد ELEGOO على صفحة المواصفات الرسمية للمنتج.
+- [Official Usage Docs (ELEGOO Support / Manuals)](https://www.elegoo.com/pages/download)
+- [Official Examples (CHITUBOX Docs)](https://docs.chitubox.com/)
