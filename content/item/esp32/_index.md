@@ -2,7 +2,7 @@
 title: "ESP32 DevKit — لوحة تطوير WiFi + Bluetooth"
 weight: 11
 description: "لوحة تطوير لشريحة ESP32 من Espressif، مناسبة لمشاريع IoT والاستشعار."
-image: "images/esp32.svg"
+image: "images/esp32.jpg"
 ---
 
 لوحة تطوير لشريحة ESP32 من Espressif، مناسبة لمشاريع IoT والاستشعار والتحكم اللاسلكي.
