@@ -1,0 +1,83 @@
+SPARC Lab Equipment Inventory - Links Directory
+===============================================
+
+VL53L0X — مستشعر ليزر لقياس المسافة (Time-of-Flight)
+مستشعر قياس مسافة ليزري من STMicroelectronics يعتمد تقنية Time-of-Flight.
+https://sparc-sy.github.io/lab/item/tof/
+
+Sipeed Lichee Tang Nano 4K — لوحة FPGA GoAI مع كاميرا HDMI
+لوحة تطوير FPGA من Sipeed/Gowin مع دعم GoAI وكاميرا HDMI.
+https://sparc-sy.github.io/lab/item/fpga/
+
+GY-BNO080 / BNO085 — وحدة IMU 9DOF AHRS عالية الدقة
+وحدة استشعار حركة من CEVA مع معالج داخلي لحساب الاتجاه (AHRS).
+https://sparc-sy.github.io/lab/item/imu/
+
+EAI YDLIDAR X2L — ليدار ثنائي الأبعاد
+ليدار ليزري 2D من EAI مع دعم ROS.
+https://sparc-sy.github.io/lab/item/lidar/
+
+AS5600 — مشفر مغناطيسي (Magnetic Encoder)
+مشفر زاوية مغناطيسي من ams OSRAM يعمل مع مغناطيس ثنائي القطب.
+https://sparc-sy.github.io/lab/item/encoder/
+
+45 Sensors Modules Starter Kit — مجموعة مستشعرات لراسبيري باي
+مجموعة تعليمية تحتوي على عشرات الموديولات مع دوائر مدمجة لـ Raspberry Pi.
+https://sparc-sy.github.io/lab/item/sensors/
+
+NVIDIA Jetson Orin Nano (8GB) — منصة حوسبة حافة AI
+منصة تطوير وتشغيل تطبيقات الذكاء الاصطناعي على الحافة من NVIDIA.
+https://sparc-sy.github.io/lab/item/orin/
+
+Raspberry Pi 5 + Full Kit (16GB + PSU)
+لوحة Raspberry Pi 5 مع كيت كامل، منصة قوية للتطوير والتعلم.
+https://sparc-sy.github.io/lab/item/rpi5/
+
+Raspberry Pi Zero 2W + Full Kit
+لوحة Raspberry Pi Zero 2 W مع كيت، نفس معمارية Pi 3 بحجم أصغر.
+https://sparc-sy.github.io/lab/item/rpiz2/
+
+Hailo-8L — AI Kit لراسبيري باي
+وحدة NPU من Hailo لتسريع استنتاج نماذج الذكاء الاصطناعي على Raspberry Pi.
+https://sparc-sy.github.io/lab/item/hailo/
+
+ESP32 DevKit — لوحة تطوير WiFi + Bluetooth
+لوحة تطوير لشريحة ESP32 من Espressif، مناسبة لمشاريع IoT والاستشعار.
+https://sparc-sy.github.io/lab/item/esp32/
+
+ESP32-CAM — موديول رؤية حاسوبية اقتصادي
+موديول ESP32 مع كاميرا OV2640 مدمجة للمراقبة والبث والتصوير.
+https://sparc-sy.github.io/lab/item/cam/
+
+ESP32 UWB DW3000 (ESP32UWB3000) — Ultra Wideband
+موديول ESP32 مع DW3000 من Qorvo لقياس المسافة والتموضع بدقة عالية.
+https://sparc-sy.github.io/lab/item/uwb/
+
+LILYGO LoRa32 V2.1 — لوحة ESP32 مع LoRa
+لوحة من LILYGO تجمع ESP32 مع موديول LoRa واختيارياً شاشة OLED.
+https://sparc-sy.github.io/lab/item/lora/
+
+Arduino Nano — لوحة تحكم دقيقة
+لوحة Arduino رسمية أو متوافقة صغيرة الحجم للتطوير السريع والمشاريع المدمجة.
+https://sparc-sy.github.io/lab/item/nano/
+
+Breadboards و Wire Sets — لوحات تجارب وأسلاك
+مجموعة لوحات تجارب وأطقم أسلاك للمختبر.
+https://sparc-sy.github.io/lab/item/breadboard/
+
+Creality K2 Plus Combo — طابعة ثلاثية الأبعاد (Filament)
+طابعة FDM من Creality بمنطقة بناء كبيرة وميزات combo.
+https://sparc-sy.github.io/lab/item/k2/
+
+Elegoo Saturn 4 Ultra — طابعة ثلاثية الأبعاد راتنج (Resin)
+طابعة راتنج من Elegoo بدقة عالية (شاشة 4K أو أعلى).
+https://sparc-sy.github.io/lab/item/saturn/
+
+AI Workstation — محطة عمل ذكاء اصطناعي
+محطة عمل عالية الأداء لدعم الاستدلال المحلي، التدريب/الضبط الدقيق، والرؤية الحاسوبية.
+https://sparc-sy.github.io/lab/item/workstation/
+
+===============================================
+Total Items: 19
+Generated: 2026-02-08
+Website: https://sparc-sy.github.io/lab/
