@@ -13,16 +13,16 @@ image: "images/workstation.jpg"
 |--------------|-------------|
 | CPU | Intel Core Ultra 9 285K |
 | GPU | NVIDIA RTX 5090 |
-| RAM | DDR5-6400 128GB |
-| Storage | NVMe M.2 2TB |
-| PSU | 1000W 80+ Platinum PSU |
+| RAM | DDR5-6400 128 GB |
+| Storage | NVMe M.2 2 TB |
+| PSU | 1000 W 80+ Platinum PSU |
 
 ## AI Lab Use Cases
 
 - **Local model inference**: تشغيل نماذج LLM/VLM محليًا لأغراض الخصوصية، خفض زمن الاستجابة، والعمل دون اعتماد دائم على السحابة.
-- **Training & fine-tuning workflows**: تدريب تجارب صغيرة إلى متوسطة، وضبط دقيق لنماذج مفتوحة المصدر باستخدام بيئات PyTorch/TensorFlow وتسريع GPU.
-- **Computer vision pipelines**: تطوير خطوط معالجة فيديو/صور (تصنيف، كشف كائنات، تتبع) مع اختبار الأداء قبل النشر على أنظمة الحافة.
-- **Robotics & edge development support**: بناء واختبار برمجيات ROS2، المحاكاة، وتجهيز النماذج للنشر على Jetson/ESP32/لوحات طرفية أخرى.
+- **Training & fine-tuning workflows**: تدريب تجارب صغيرة إلى متوسطة، وضبط دقيق لنماذج مفتوحة المصدر باستخدام PyTorch/TensorFlow وتسريع GPU.
+- **Computer vision pipelines**: تطوير خطوط معالجة فيديو/صور (تصنيف، كشف كائنات، تتبع) واختبار الأداء قبل النشر على أنظمة الحافة (Jetson، ESP32).
+- **Robotics & edge development support**: بناء واختبار برمجيات ROS2، المحاكاة، وتجهيز النماذج للنشر على لوحات طرفية.
 
 ## Configuration/Upgrade Paths
 
