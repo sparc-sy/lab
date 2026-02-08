@@ -18,5 +18,5 @@ theme = "lab"
   weight = 10
   [[menu.main]]
   name = "المكونات"
-  pageRef = "/components/"
+  pageRef = "/item/"
   weight = 20

@@ -21,7 +21,7 @@ Output goes to `public/`. Deploy its contents to any static-file host.
 ```
 content/
 ├── _index.md                          # Homepage
-└── components/
+└── item/
     ├── _index.md                      # Component listing page
     └── <slug>/
         ├── _index.md                  # Detailed web page (front matter supports `image:`)
@@ -43,7 +43,7 @@ Starter templates for new components are in `_templates/`:
 
 ## Adding a New Component
 
-1. Create `content/components/<slug>/`.
+1. Create `content/item/<slug>/`.
 2. Copy `_templates/web-template.md` to `_index.md` inside that folder and fill in the details.
 3. Copy `_templates/print-template.md` to `print.md` and fill in the summary.
 4. Run `hugo server` to preview.

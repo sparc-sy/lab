@@ -6,7 +6,7 @@
     <nav class="breadcrumb" aria-label="breadcrumb">
       <a href="{{ "" | relURL }}">الرئيسية</a>
       <span class="sep">/</span>
-      <a href="{{ "components/" | relURL }}">المكونات</a>
+      <a href="{{ "item/" | relURL }}">المكونات</a>
       {{ if and .Parent (not .Parent.IsHome) (ne .Section .Parent.Section) }}
       <span class="sep">/</span>
       <span>{{ .Title }}</span>
@@ -17,7 +17,7 @@
   <div class="content-body">
     {{ .Content }}
   </div>
-  {{ if and (not .Params.noprint) (eq .Section "components") }}
+  {{ if and (not .Params.noprint) (eq .Section "item") }}
   <footer class="content-actions">
     <a href="{{ .RelPermalink }}print/" class="btn btn-print">نسخة للطباعة</a>
   </footer>
