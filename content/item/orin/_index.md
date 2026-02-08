@@ -26,7 +26,8 @@ image: "images/orin.png"
 
 ## روابط مفيدة
 
-- [NVIDIA Jetson Orin Nano](https://developer.nvidia.com/embedded/jetson-orin-nano)
+- [Jetson Orin Nano Developer Kit Getting Started](https://developer.nvidia.com/embedded/learn/get-started-jetson-orin-nano-devkit)
+- [Jetson Orin Nano User Guide](https://developer.nvidia.com/embedded/learn/jetson-orin-nano-devkit-user-guide/index.html)
 - [Jetson Orin Nano Datasheet (PDF)](https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5380/Jetson_Orin_Nano_Series_DS-11105-001_v1.1.pdf)
 - [Jetson Orin Nano Carrier Board Specification](https://developer.download.nvidia.com/assets/embedded/secure/jetson/orin_nano/docs/Jetson-Orin-Nano-DevKit-Carrier-Board-Specification_SP-11324-001_v1.3.pdf)
 - [JetPack SDK](https://developer.nvidia.com/embedded/jetpack)

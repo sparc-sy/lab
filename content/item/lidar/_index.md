@@ -27,7 +27,7 @@ image: "images/lidar.jpg"
 
 ## روابط مفيدة
 
-- [YDLIDAR X2 product page](https://www.ydlidar.com/products/view/2)
+- [YDLIDAR X2 product page](https://www.ydlidar.com/product/ydlidar-x2)
 - [YDLIDAR X2 Datasheet (PDF)](https://robu.in/wp-content/uploads/2021/01/YDLIDAR-X2-Data-Sheet-V1.2240124.pdf)
 - [YDLIDAR X2 User Manual](https://www.ydlidar.com/Public/upload/files/2024-02-01/YDLIDAR%20X2%20Lidar%20User%20Manual%20V1.3(240124).pdf)
 - [YDLIDAR SDK (GitHub)](https://github.com/YDLIDAR/YDLidar-SDK)

@@ -26,8 +26,8 @@ image: "images/saturn.jpg"
 
 ## روابط مفيدة
 
-- [Elegoo Saturn 4 Ultra](https://www.elegoo.com/)
-- [Saturn 4 Ultra Product Page](https://www.elegoo.com/products/elegoo-saturn-4-ultra-resin-3d-printer)
+- [Elegoo Saturn 4 Ultra](https://www.elegoo.com/pages/elegoo-saturn-4-ultra)
+- [Saturn 4 Ultra 16K Product Page](https://us.elegoo.com/products/saturn-4-ultra-16k-10inch-monochrome-lcd-resin-3d-printer)
 - [Elegoo Support & Downloads](https://www.elegoo.com/pages/download-center)
 - [Chitubox (برنامج الشرائح)](https://www.chitubox.com/)
 - [Lychee Slicer](https://mango3d.io/lychee-slicer/)
