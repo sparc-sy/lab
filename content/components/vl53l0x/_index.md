@@ -29,6 +29,6 @@ image: "images/VL53L0X.jpg"
 
 ## روابط مفيدة
 
-- [الداتاشيت الرسمي (ST)](https://www.st.com/resource/en/datasheet/vl53l0x.pdf)
-- [Adafruit VL53L0X](https://www.adafruit.com/product/3317)
-- [Adafruit CircuitPython / Arduino library](https://github.com/adafruit/Adafruit_VL53L0X)
+- [Official Product Page (ST VL53L0X)](https://www.st.com/en/imaging-and-photonics-solutions/vl53l0x.html)
+- [Datasheet (VL53L0X PDF)](https://www.st.com/resource/en/datasheet/vl53l0x.pdf)
+- [Official Examples (STSW-IMG005 API)](https://www.st.com/en/embedded-software/stsw-img005.html)

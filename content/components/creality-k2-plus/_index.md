@@ -26,6 +26,7 @@ image: "https://cdn.mos.cms.futurecdn.net/5aF5Z4cmm9gC9gWzZ4A7gA-970-80.jpg.webp
 
 ## روابط مفيدة
 
-- [Creality K2 Plus (الموقع الرسمي)](https://www.creality.com/)
-- [Creality Print (برنامج الشركة)](https://www.creality.com/software)
-- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+- [Official Product Page (Creality K2 Plus)](https://www.creality.com/products/creality-k2-plus-combo)
+- **Datasheet:** لا توجد داتاشيت رسمية منفصلة؛ تعتمد Creality على صفحة المواصفات الرسمية للمنتج.
+- [Official Usage Docs (Creality Wiki / Manuals)](https://wiki.creality.com/)
+- [Official Examples (Creality Print)](https://www.creality.com/pages/download-software)

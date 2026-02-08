@@ -26,6 +26,6 @@ image: "https://cdn-shop.adafruit.com/970x728/4754-00.jpg"
 
 ## روابط مفيدة
 
-- [داتاشيت BNO085 (CEVA)](https://www.ceva-dsp.com/app-notes/)
-- [Adafruit BNO08x](https://www.adafruit.com/product/4754)
-- [Adafruit BNO08x Library](https://github.com/adafruit/Adafruit_BNO08x)
+- [Official Product Page (BNO085 Sensor Hub)](https://www.ceva-ip.com/product/bno085/)
+- [Datasheet (BNO080/BNO085 PDF)](https://cdn.sparkfun.com/assets/learn_tutorials/8/5/2/BNO080_Datasheet_v1.3.pdf)
+- [Official Examples (Adafruit BNO08x Library)](https://github.com/adafruit/Adafruit_BNO08x/tree/master/examples)

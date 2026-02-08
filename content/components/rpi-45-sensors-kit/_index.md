@@ -21,5 +21,7 @@ image: "https://cdn.shopify.com/s/files/1/0550/3754/6952/products/45-in-1-sensor
 
 ## روابط مفيدة
 
-- [Raspberry Pi GPIO documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)
-- [متاجر توريد (ابحث عن "45 in 1 sensors kit Raspberry Pi")]
+- [Official Product Page (SunFounder 45 Sensor Kit for Raspberry Pi)](https://www.sunfounder.com/products/sensor-kit-v2-0-for-raspberry-pi)
+- **Datasheet:** لا توجد داتاشيت رسمية موحدة لأن هذه المجموعة تجمع عشرات الحساسات من موردين مختلفين.
+- [Official Usage Docs (SunFounder Sensor Kit Docs)](https://docs.sunfounder.com/projects/sensorkit-v2-pi/en/latest/)
+- [Official Examples (SunFounder Sensor Kit Python Examples)](https://github.com/sunfounder/sensorkit-v2-pi)

@@ -28,6 +28,6 @@ image: "https://www.raspberrypi.com/app/uploads/2023/09/raspberry-pi-5-overview-
 
 ## روابط مفيدة
 
-- [Raspberry Pi 5 — الموقع الرسمي](https://www.raspberrypi.com/products/raspberry-pi-5/)
-- [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
-- [Raspberry Pi OS](https://www.raspberrypi.com/software/)
+- [Official Product Page (Raspberry Pi 5)](https://www.raspberrypi.com/products/raspberry-pi-5/)
+- [Datasheet (Raspberry Pi 5 Product Brief PDF)](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
+- [Official Examples (GPIO Zero Recipes)](https://gpiozero.readthedocs.io/en/stable/recipes.html)

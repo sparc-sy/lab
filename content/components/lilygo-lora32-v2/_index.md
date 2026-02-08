@@ -25,6 +25,7 @@ image: "https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/raw/master/image/Lo
 
 ## روابط مفيدة
 
-- [LILYGO LoRa Series (GitHub)](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)
-- [RadioLib](https://github.com/jgromes/RadioLib)
-- [The Things Network (LoRaWAN)](https://www.thethingsnetwork.org/)
+- [Official Product Page (LILYGO TTGO LoRa32 v2)](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/tree/master/TTGO%20LoRa32)
+- **Datasheet:** لا توجد داتاشيت رسمية موحدة للوحة؛ يتم الرجوع إلى مخططات اللوحة وداتاشيت الشرائح المستخدمة.
+- [Official Usage Docs (LILYGO LoRa Series Docs)](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)
+- [SDK Samples (LILYGO LoRa32 Examples)](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/tree/master/examples)

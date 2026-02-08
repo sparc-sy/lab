@@ -27,6 +27,6 @@ image: "https://done.land/components/espressif/esp32-devkitc-v4/board.svg"
 
 ## روابط مفيدة
 
-- [ESP32 Datasheet (Espressif)](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
-- [ESP32 DevKitC (Espressif)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html)
-- [Arduino-ESP32](https://github.com/espressif/arduino-esp32)
+- [Official Product Page (ESP32 DevKitC)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html)
+- [Datasheet (ESP32 PDF)](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [Official Examples (Arduino-ESP32)](https://github.com/espressif/arduino-esp32/tree/master/libraries)

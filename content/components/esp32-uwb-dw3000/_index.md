@@ -26,6 +26,6 @@ image: "https://www.makerfabs.com/desfile/files/ESP32-UWB-2.jpg"
 
 ## روابط مفيدة
 
-- [Qorvo DW3000](https://www.qorvo.com/products/p/DW3000)
-- [DW3000 Datasheet](https://www.qorvo.com/products/d/da000367)
-- [ESP32 UWB / DW3000 community libraries (GitHub)](https://github.com/topics/dw3000)
+- [Official Product Page (Qorvo DW3000)](https://www.qorvo.com/products/p/DW3000)
+- [Datasheet (DW3000)](https://www.qorvo.com/products/d/da000367)
+- [SDK Samples (Qorvo UWB Software)](https://www.qorvo.com/design-hub/design-tools/software)

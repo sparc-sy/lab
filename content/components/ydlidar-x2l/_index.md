@@ -27,6 +27,6 @@ image: "https://www.ydlidar.com/images/201908/1566202386.jpg"
 
 ## روابط مفيدة
 
-- [YDLIDAR X2 product page](https://www.ydlidar.com/products/view/2)
-- [YDLIDAR SDK (GitHub)](https://github.com/YDLIDAR/YDLidar-SDK)
-- [YDLIDAR ROS](https://github.com/YDLIDAR/ydlidar_ros)
+- [Official Product Page (YDLIDAR X2L)](https://www.ydlidar.com/products/view/2.html)
+- [Datasheet (YDLIDAR X2L Manual PDF)](https://www.ydlidar.com/Public/upload/files/2019-12-18/YDLIDAR%20X2%20Development%20Manual.pdf)
+- [SDK Samples (YDLIDAR SDK Examples)](https://github.com/YDLIDAR/YDLidar-SDK/tree/master/examples)
