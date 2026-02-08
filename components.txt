@@ -1,0 +1,64 @@
+Perfect, understood. Below is a **clean list with only item name + model number**.
+No comments, no quantities, no availability, no origin, no extras.
+
+---
+
+### Sensors & Modules
+
+* Time-of-Flight Laser Ranging Sensor — **VL53L0X**
+* 9DOF IMU AHRS Sensor Module — **BNO080 / BNO085**
+* Magnetic Rotary Encoder — **AS5600**
+* 2D LiDAR Sensor — **YDLIDAR X2L**
+* Multi-Sensor Module Kit — **Raspberry Pi 45-in-1 Sensor Kit**
+
+---
+
+### Compute & AI Boards
+
+* AI Developer Kit — **NVIDIA Jetson Orin Nano 8GB**
+* Edge AI Development Board — **Google Coral Dev Board**
+* Single Board Computer — **Raspberry Pi 5 (16GB)**
+* Single Board Computer — **Raspberry Pi Zero 2 W**
+* AI Accelerator Module — **Hailo-8L**
+
+---
+
+### Microcontrollers & Wireless Boards
+
+* Wi-Fi & Bluetooth Development Board — **ESP32 DevKitC**
+* Camera Development Board — **ESP32-CAM**
+* Ultra-Wideband Development Board — **ESP32 UWB DW3000**
+* LoRa Development Board — **LILYGO LoRa32 V2.1**
+* Microcontroller Board — **Arduino Nano**
+
+---
+
+### FPGA & Vision
+
+* FPGA Development Board — **Sipeed Lichee Tang Nano 4K**
+
+---
+
+### Prototyping Hardware
+
+* Solderless Breadboard — **MB-102 (830/1660-Point Series)**
+* Solderless Breadboard — **400-Point Breadboard**
+* Jumper Wire Set — **40-Pin Dupont Wire Set**
+
+---
+
+### 3D Printing
+
+* FDM 3D Printer — **Creality K2 Plus Combo**
+* Resin 3D Printer — **Elegoo Saturn 4 Ultra**
+
+---
+
+### Workstation Components [One item with below specs]
+
+* Processor — **Intel Core Ultra 9 285K**
+* Graphics Card — **NVIDIA RTX 5090**
+* Memory — **DDR5-6400 128GB**
+* Storage — **NVMe M.2 2TB**
+* Power Supply — **1000W 80+ Platinum PSU**
+
