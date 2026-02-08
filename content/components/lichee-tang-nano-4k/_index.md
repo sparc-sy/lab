@@ -2,7 +2,7 @@
 title: "Sipeed Lichee Tang Nano 4K — لوحة FPGA GoAI مع كاميرا HDMI"
 weight: 2
 description: "لوحة تطوير FPGA من Sipeed/Gowin مع دعم GoAI وكاميرا HDMI."
-image: "/images/Sipeed-FPGA.jpg"
+image: "./images/Sipeed-FPGA.jpg"
 ---
 
 لوحة تطوير FPGA من Sipeed/Gowin صغيرة الحجم، مع دعم GoAI وكاميرا HDMI، مناسبة للتعلم ومشاريع معالجة الصور والذكاء الاصطناعي على FPGA.
