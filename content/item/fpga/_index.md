@@ -5,23 +5,24 @@ description: "لوحة تطوير FPGA من Sipeed/Gowin مع دعم GoAI وكا
 image: "images/fpga.jpg"
 ---
 
-لوحة تطوير FPGA من Sipeed/Gowin صغيرة الحجم، مع دعم GoAI وكاميرا HDMI، مناسبة للتعلم ومشاريع معالجة الصور والذكاء الاصطناعي على FPGA.
+لوحة تطوير FPGA من Sipeed/Gowin صغيرة الحجم، مع معالج ARM Cortex-M3 مدمج (80 MHz)، دعم كاميرا DVP وخرج HDMI، مناسبة للتعلم ومشاريع معالجة الصور والذكاء الاصطناعي على الحافة.
 
 ## المواصفات التفصيلية (من الداتاشيت)
 
 | المواصفة | القيمة |
 |----------|--------|
-| FPGA | Gowin GW1NSR-LV4C (Logic: 4608 LUT4) |
-| ذاكرة مدمجة | 1 MB SRAM (on-chip) |
-| واجهات | HDMI input (camera), USB, GPIO |
-| جهد التشغيل | 3.3 V |
-| بيئة التطوير | Gowin EDA (VHDL/Verilog), OpenFPGA |
+| FPGA | Gowin GW1NSR-LV4C (4608 LUT4، 3456 FF، 180 Kbit B-SRAM) |
+| ذاكرة | 64 MB HyperRAM، 32 Mbit NOR Flash |
+| معالج | ARM Cortex-M3 (80 MHz) مدمج |
+| واجهات | HDMI (خارج)، DVP كاميرا (مثلاً OV2640)، USB Type-C (طاقة + JTAG)، 38 GPIO |
+| جهد التشغيل | 5 V (عبر USB Type-C) |
+| بيئة التطوير | Gowin EDA (VHDL/Verilog)، OpenFPGA |
 
 ## أمثلة الاستخدام
 
-- تشغيل كاميرا HDMI وعرض الصورة عبر FPGA.
-- بناء مشروع GoAI لتصنيف الصور.
-- تصميم دوائر رقمية (عدادات، UART، عرض على شاشة).
+- تشغيل كاميرا DVP (مثل OV2640) أو إدخال HDMI وعرض الصورة عبر FPGA إلى شاشة.
+- بناء مشروع GoAI لتصنيف الصور على اللوحة.
+- تصميم دوائر رقمية (عدادات، UART، عرض على شاشة) أو خط معالجة صور بسيط (عتبة، تتبع لون).
 
 ## روابط مفيدة
 
