@@ -54,11 +54,7 @@ No comments, no quantities, no availability, no origin, no extras.
 
 ---
 
-### Workstation Components [One item with below specs]
+### Workstation
 
-* Processor — **Intel Core Ultra 9 285K**
-* Graphics Card — **NVIDIA RTX 5090**
-* Memory — **DDR5-6400 128GB**
-* Storage — **NVMe M.2 2TB**
-* Power Supply — **1000W 80+ Platinum PSU**
+* AI Workstation — **Intel Core Ultra 9 285K / NVIDIA RTX 5090 / DDR5-6400 128GB / NVMe M.2 2TB / 1000W 80+ Platinum PSU**
 
