@@ -1,0 +1,22 @@
+baseURL = "/"
+languageCode = "ar"
+defaultContentLanguage = "ar"
+title = "مكونات المختبر"
+theme = "lab"
+
+[params]
+  description = "صفحات تعريفية للمكونات والأجهزة الإلكترونية في المختبر"
+  author = "مختبر الجامعة"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+  name = "الرئيسية"
+  pageRef = "/"
+  weight = 10
+  [[menu.main]]
+  name = "المكونات"
+  pageRef = "/components/"
+  weight = 20

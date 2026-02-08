@@ -1,0 +1,76 @@
+/* Print-only layout for component cards */
+:root {
+  --print-bg: #fff;
+  --print-text: #1a1a1a;
+  --print-muted: #444;
+  --font-sans: "IBM Plex Sans Arabic", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--print-bg);
+  color: var(--print-text);
+  font-family: var(--font-sans);
+  font-size: 12pt;
+  line-height: 1.5;
+}
+
+.print-page {
+  max-width: 21cm;
+  margin: 0 auto;
+  padding: 1cm;
+}
+
+.print-header {
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.print-site {
+  font-size: 0.85rem;
+  color: var(--print-muted);
+  margin: 0 0 0.25rem;
+}
+
+.print-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.print-body h1 { font-size: 1.15rem; margin: 1rem 0 0.5rem; }
+.print-body h2 { font-size: 1.05rem; margin: 0.9rem 0 0.4rem; }
+
+.print-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+
+.print-body th, .print-body td {
+  border: 1px solid #ccc;
+  padding: 0.35rem 0.5rem;
+  text-align: right;
+}
+
+.print-body th {
+  background: #f5f5f5;
+}
+
+.print-body img {
+  max-width: 100%;
+  height: auto;
+  max-height: 4cm;
+}
+
+@media print {
+  body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .print-page { padding: 0.5cm; }
+}

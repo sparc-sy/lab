@@ -1,0 +1,18 @@
+{{ define "bodyclass" }}page-list{{ end }}
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div class="list-page">
+  <header class="list-header">
+    <h1 class="list-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="list-intro prose">{{ . }}</div>{{ end }}
+  </header>
+  <div class="list-grid">
+    {{ range .Sections.ByWeight }}
+    <a href="{{ .Permalink }}" class="card">
+      <span class="card-title">{{ .Title }}</span>
+      {{ with .Description }}<span class="card-desc">{{ . }}</span>{{ end }}
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

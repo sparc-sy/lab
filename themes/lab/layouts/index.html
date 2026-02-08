@@ -1,0 +1,24 @@
+{{ define "bodyclass" }}page-home{{ end }}
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<div class="home">
+  <header class="hero">
+    <h1 class="hero-title">{{ .Site.Title }}</h1>
+    <p class="hero-desc">{{ .Site.Params.description }}</p>
+    <a href="{{ "/components/" | absURL }}" class="btn btn-primary">استعراض المكونات</a>
+  </header>
+  {{ with .Content }}<div class="home-content prose">{{ . }}</div>{{ end }}
+  <section class="home-components">
+    <h2 class="section-title">المكونات المتوفرة</h2>
+    <ul class="component-list">
+      {{ range .Site.Sections }}
+        {{ if eq .Section "components" }}
+          {{ range .Sections.ByWeight }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+</div>
+{{ end }}

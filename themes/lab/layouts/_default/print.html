@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }} — نسخة طباعة</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/print.css" | absURL }}">
+</head>
+<body class="print-page">
+  <article class="print-article">
+    <header class="print-header">
+      <p class="print-site">{{ .Site.Title }}</p>
+      <h1 class="print-title">{{ .Title }}</h1>
+    </header>
+    <div class="print-body">
+      {{ .Content }}
+    </div>
+  </article>
+</body>
+</html>
